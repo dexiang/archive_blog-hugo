@@ -1,0 +1,9 @@
+[en-us]
+  title = "Dexiang Blog"
+  languageName = "English"
+  weight = 1
+
+[zh-tw]
+  title = "Tony 字傳"
+  languageName = "中文"
+  weight = 1
