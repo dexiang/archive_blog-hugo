@@ -1,0 +1,23 @@
+[[main]]
+  identifier = "about"
+  name = "關於我"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "歸檔"
+  url = "archive"
+  weight = 2
+
+[[main]]
+  identifier = "technologies"
+  name = "科技"
+  url = "technologies"
+  weight = 3
+    
+[[main]]
+  identifier = "trivia"
+  name = "雜記"
+  url = "trivia"
+  weight = 4

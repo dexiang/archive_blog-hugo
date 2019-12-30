@@ -28,6 +28,8 @@ googleAnalytics = ""
     lineNos = true
     lineNumbersInTable = true
     noClasses = false
+  [markup.blackFriday]
+    hrefTargetBlank = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
