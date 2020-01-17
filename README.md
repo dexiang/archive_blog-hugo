@@ -9,5 +9,7 @@
 ├── data
 ├── layouts
 ├── static
-└── themes
+├── themes
+├── resources: Cache
+└── public: static html
 ```
