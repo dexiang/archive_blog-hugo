@@ -5,19 +5,19 @@
   weight = 1
 
 [[main]]
-  identifier = "archive"
-  name = "Archive"
-  url = "archive"
-  weight = 2
-
-[[main]]
   identifier = "tech"
   name = "Technology"
   url = "technologies"
-  weight = 3
+  weight = 2
     
 [[main]]
   identifier = "trivia"
   name = "Trivia"
   url = "trivia"
+  weight = 3
+
+[[main]]
+  identifier = "archive"
+  name = "Archive"
+  url = "archive"
   weight = 4
