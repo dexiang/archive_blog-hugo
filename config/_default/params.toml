@@ -52,6 +52,7 @@ enableBusuanzi = false # if set true, total page view, total unique visitors sho
 busuanziSiteUV = true # unique visitors (total number of visitors)
 busuanziSitePV = true # site total page view count
 busuanziPagePV = true # post view count
+googleAnalytics = "UA-97832183-1"
 
 # comment
 enableComment = true
